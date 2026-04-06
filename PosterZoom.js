@@ -236,7 +236,7 @@
           '8px': t('r_medium'),
           '12px': t('r_large'),
           '16px': t('r_xlarge'),
-          '24px': t('r_xxlarge')
+          '18px': t('r_xxlarge')
         }
       },
       field: {
