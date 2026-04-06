@@ -103,7 +103,7 @@
         'r_medium': 'Medium (8px)',
         'r_large': 'Large (12px)',
         'r_xlarge': 'X-Large (16px)',
-        'r_xxlarge': 'XX-Large (24px)'
+        'r_xxlarge': 'XX-Large (18px)'
       },
       'ru': {
         'zoom_title': 'Увеличение Карточек',
@@ -130,7 +130,7 @@
         'r_medium': 'Средние (8px)',
         'r_large': 'Большие (12px)',
         'r_xlarge': 'Очень большие (16px)',
-        'r_xxlarge': 'Максимальные (24px)'
+        'r_xxlarge': 'Максимальные (18px)'
       },
       'uk': {
         'zoom_title': 'Збільшення Карток',
@@ -157,7 +157,7 @@
         'r_medium': 'Середні (8px)',
         'r_large': 'Великі (12px)',
         'r_xlarge': 'Дуже великі (16px)',
-        'r_xxlarge': 'Максимальні (24px)'
+        'r_xxlarge': 'Максимальні (18px)'
       }
     };
 
