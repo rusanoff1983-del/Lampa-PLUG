@@ -186,7 +186,7 @@
           '1.05': t('small'),
           '1.08': t('medium'),
           '1.12': t('large'),
-          '2.15': t('xlarge')
+          '1.15': t('xlarge')
         }
       },
       field: {
@@ -212,7 +212,7 @@
           '0.8s': t('very_slow'),
           '1.2s': t('ultra_slow'),
           '1.5s': t('super_slow'),
-          '3.0s': t('mega_slow')
+          '2.0s': t('mega_slow')
         }
       },
       field: {
